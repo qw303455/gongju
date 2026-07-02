@@ -1,0 +1,2 @@
+打开搞机助手后 扩展功能 cmd命令行：fastboot flashing unlock
+注意手机要进入Fastboot模式
